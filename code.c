@@ -3,7 +3,7 @@
 #define SUBOR "sifra.txt"
 #define N 'Z' - 'A' + 1 
 
-int main()
+int main() xx
 {
     int i=0, o=1, p=0, k, b=0, h=0, g=0;
     int povodny[1000], uprava[1000] = {0};
